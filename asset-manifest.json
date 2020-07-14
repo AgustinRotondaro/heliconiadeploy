@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heliconiadeploy/static/css/main.fb5e79b7.chunk.css",
+    "main.js": "/heliconiadeploy/static/js/main.a9a0be94.chunk.js",
+    "main.js.map": "/heliconiadeploy/static/js/main.a9a0be94.chunk.js.map",
+    "runtime-main.js": "/heliconiadeploy/static/js/runtime-main.6c82cf30.js",
+    "runtime-main.js.map": "/heliconiadeploy/static/js/runtime-main.6c82cf30.js.map",
+    "static/js/2.cad3bf64.chunk.js": "/heliconiadeploy/static/js/2.cad3bf64.chunk.js",
+    "static/js/2.cad3bf64.chunk.js.map": "/heliconiadeploy/static/js/2.cad3bf64.chunk.js.map",
+    "index.html": "/heliconiadeploy/index.html",
+    "precache-manifest.6bc3a2d1aa01b7ac7032d1221500bcf0.js": "/heliconiadeploy/precache-manifest.6bc3a2d1aa01b7ac7032d1221500bcf0.js",
+    "service-worker.js": "/heliconiadeploy/service-worker.js",
+    "static/css/main.fb5e79b7.chunk.css.map": "/heliconiadeploy/static/css/main.fb5e79b7.chunk.css.map",
+    "static/js/2.cad3bf64.chunk.js.LICENSE.txt": "/heliconiadeploy/static/js/2.cad3bf64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c82cf30.js",
+    "static/js/2.cad3bf64.chunk.js",
+    "static/css/main.fb5e79b7.chunk.css",
+    "static/js/main.a9a0be94.chunk.js"
+  ]
+}
